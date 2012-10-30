@@ -2,3 +2,6 @@
 
 require:
     - play
+    - play -> crud
+    - play -> securesocial 0.2.5
+    
